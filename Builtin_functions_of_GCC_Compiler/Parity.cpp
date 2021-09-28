@@ -17,5 +17,6 @@ int main(){
 	cout<<__builtin_parity(n);
 
 	return 0;
+	
 }
 
