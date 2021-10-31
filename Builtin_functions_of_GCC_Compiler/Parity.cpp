@@ -5,7 +5,7 @@
 //Example:
 //if x = 7
 //7 has odd no. of 1's in its binary(111).
-//Output: Parity of 7 is 1
+//Output: Parity of 7 is 1.
 
 
 using namespace std;
