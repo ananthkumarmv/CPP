@@ -10,8 +10,7 @@ int main(){
 	*ptr = 12;
 	
 	cout<<*ptr;
-
-
+	
     return 0;
 }
 
