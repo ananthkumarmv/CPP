@@ -26,7 +26,6 @@ int main(){
 	
 	cout<<"fd = "<<*(float *) pv;
 
-
     return 0;
 }
 
